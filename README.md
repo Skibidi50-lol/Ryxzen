@@ -1,2 +1,2 @@
 # Ryxzen
-Xeno Ahh Rip offs
+Discontinue. Soon RyzxenV1 will Release
