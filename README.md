@@ -1,2 +1,2 @@
 # Ryxzen
-Ryxzen Discontinue. Soon 6 1 25
+Ryxzen Discontinue. Soon Ryzxen (RyxzenRB)
