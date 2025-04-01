@@ -1,2 +1,2 @@
 # Ryxzen
-Discontinue. Soon RyzxenV1 will Release
+Ryxzen Discontinue. Soon 6 1 25
