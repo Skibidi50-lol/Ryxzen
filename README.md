@@ -1,3 +1,4 @@
 # Ryxzen
 Ryxzen Discontinue. Soon Ryzxen (RyxzenRB)
-NOT WORK NOW SOON
+DELAY, NOT WORK NOW SOON
+SPASHAPIVELOCITY CRASH TWICE
