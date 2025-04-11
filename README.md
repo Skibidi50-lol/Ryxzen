@@ -1,4 +1,2 @@
 # Ryxzen
-Ryxzen Discontinue. Soon Ryzxen (RyxzenRB)
-DELAY, NOT WORK NOW SOON
-SPASHAPIVELOCITY CRASH TWICE
+Ryzxen Gray theme is Finish but wait for work api
